@@ -1,9 +1,11 @@
-import Todo from "./Components/Todo"
+import Main from "./Calculators/main"
+
+
 
 const App = () => {
   return (
     <div>
-      <Todo />
+      <Main />
       
     </div>
   )
