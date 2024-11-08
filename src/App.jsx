@@ -1,12 +1,8 @@
-import Main from "./Calculators/main"
-
-
-
-const App = () => {
+import From from "./Components/From"
+ const App = () => {
   return (
     <div>
-      <Main />
-      
+      <From />
     </div>
   )
 }
